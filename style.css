@@ -1,6 +1,7 @@
 body{
 	background-image: url("pca.jpg");
 	background-size: cover;
+	background-repeat: no-repeat:;
 	font-family: "sans-serif";
 	font-weight: bold;
 	text-align: center;
